@@ -11,7 +11,7 @@
 - [Results](#results)
 - [Recommendations](#recommendations)
 
-# Data Cleaning 
+# Data Cleaning 🧹
 ## Project Overview
 This project demonstrates how to clean and preprocess raw data using MySQL to ensure accuracy and reliability.Fixing issues in the raw data helps so that when you start creating visualizations the data is useful and there are no issues with it. The dataset contains data from the worlds layoffs of companies from 2020 to 2023.The goal is to identify and resolve common data quality issues such as missing values, duplicates, inconsistent formats and incorrect data types.
 
@@ -62,10 +62,10 @@ FROM layoff_staging
 )
 ```
 
-## Results
+## Results 
 After covid, a lot of companies were affected and have ended up letting go of a number of their employees. Some companies have completely gone under laying off all their employees. Some industries were affected more than others. 
 
-## Recommendations
+## Recommendations 
 1. Invest in innovation and market adaptability
 2. Reskilling and Upskilling employees
 3. Implementing flexible work models - introduce hybrid and remote work
